@@ -1,13 +1,8 @@
-# Thinkspace
+# m-rauh
+## https://m-rauh.github.io/
 
-> Thinkspace is just another minimalist Jekyll theme which designed for technical writing blog.
+## This site is my personal and technical blog.
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg) ![VERSION](https://img.shields.io/badge/current_version-2.5-green.svg) ![TRAVIS-CI](https://travis-ci.org/heiswayi/thinkspace.svg?branch=master)
-
-- **Demo:** https://heiswayi.github.io/thinkspace/
-
-![SCREENSHOT](https://i.imgur.com/1YS078k.png)
-
-## License
+This project was based on Thinkspace: https://github.com/heiswayi/thinkspace
 
 [MIT](LICENSE.md)
