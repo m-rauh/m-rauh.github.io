@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Oi Buuu <3
+Te amo gatinha
