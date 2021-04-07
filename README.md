@@ -1,4 +1,3 @@
-# m-rauh
 ## https://m-rauh.github.io/
 
 ## This site is my personal and technical blog.
