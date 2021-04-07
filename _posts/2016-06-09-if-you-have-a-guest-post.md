@@ -3,7 +3,7 @@ layout: post
 title: "If you have a Guest post.."
 comments: true
 description: "If you have a Guest post.."
-category: page
+category: analysis
 keywords: "dummy content"
 author: GuestName
 ---
