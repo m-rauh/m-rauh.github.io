@@ -39,8 +39,12 @@ plugins:
 navbar:
   - slug : about
     title: About
-  - slug : blog
-    title: Blog
+  - slug : gamedev
+    title: Game Devlog
+  - slug : random 
+    title: Random Topic
+  - slug : page 
+    title: Analysis
 
 exclude:
   - "gulp"
