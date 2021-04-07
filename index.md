@@ -1,6 +1,6 @@
 ---
 layout: page2
-title: Home
+title: About Me
 ---
 
 Hi, i'm Mat.
