@@ -5,12 +5,12 @@ permalink: /random/
 ---
 
 
-<section class="randoms-list">
+<section class="random-list">
   <div class="container">
-    {% for randoms in site.randomss %}
-      <article class="randoms-item">
-        <span class="randoms-meta date-label">{{ randoms.date | date: "%d %b %Y" }}</span>
-        <div class="article-title"><a class="randoms-link" href="{{ randoms.url | prepend: site.baseurl | prepend: site.url }}">{{ randoms.title }}</a></div>
+    {% for random in site.randoms %}
+      <article class="random-item">
+        <span class="random-meta date-label">{{ random.date | date: "%d %b %Y" }}</span>
+        <div class="article-title"><a class="random-link" href="{{ random.url | prepend: site.baseurl | prepend: site.url }}">{{ random.title }}</a></div>
       </article>
     {% endfor %}
   </div>
