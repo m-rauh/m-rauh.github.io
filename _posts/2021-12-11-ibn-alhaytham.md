@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Investigações científicas em _Livro da Óptica_ de Ibn al-Haytham"
+title: "Investigações científicas de Ibn al-Haytham"
 comments: true
 category: random
 description: "Mo pensamento científico de Ibn Al-Haytham, cientista árabe do século XX e XI"
@@ -10,8 +10,6 @@ keywords: "Ibn al-Haytham, Alhazen, método científico, Investigações cientí
 ## Resumo
 
 Investigamos o pensamento científico de Ibn Al-Haytham, cientista árabe do século XX e XI, através de sua obra _Livro da Óptica_. Vimos como se manifesta o pensamento inquisitivo do autor, muitas vezes atribuído como criador do método científico. Sua obra persiste como uma das mais completas a cerca da visão e da luz e a forma de seu pensamento esboça semelhanças com o cientificismo moderno.
-
-### Image
 
 ![Al-Haytham](https://es.unesco.org/sites/default/files/styles/img_688x358/public/courier/photos/alhacen.jpg?itok=AY-YxiLH.png)
 
@@ -68,6 +66,8 @@ _Sur la formation des ombres_.
 
 ## _Livro da Óptica_
 
+![Al-Haytham](https://www.natureasia.com/en/nmiddleeast/figures/1242/Yahia%20Editorial%20MAIN.png)
+
 O _Livro da Óptica_ possui 7 volumes e lida com as teoria da luz, cores, visão, percepção visual, _erros_ [[^6]] da visão, reflexão e refração. Como já citado anteriormente é uma obra extensa e ambiociosa que impressiona o leitor pela riqueza de assuntos tratados e a maneira como são expostos. O fascínio que Ibn Al-Haytham tinha pela ótica transpira na obra.
 
 O autor ao longo do livro usa exemplos experimentais, as vezes usando aparatos por ele construído que são descritos ou casos universais, principalmente a Lua recorrentemente citada. Ele incentiva que outros repitam os mesmos exemplos para se chegar numa conclusão e com isso ele induz e convence de seus argumentos. A relevância e alcance do texto certamente é acompanhada pela incrível organização de suas ideias.
@@ -83,6 +83,8 @@ Como dito anteriormente a interdiciplinaridade trabalhada por Ibn Al-Haytham dur
 
 A interdiciplinaridade de Al-Hasan vai além de só trabalhar com mais de um assunto ou contexto. Aqui, o autor age como um conciliador, da ciência matemática e das ciências naturais, fazendo uma combinação e síntese. Esse trecho também trás uma visão importante do autor em relação à ótica: a relação entre sensação e percepção. Ele entende a visão como uma sensação, possivelmente retomando Aristoteles e Galeno que traziam uma visão mais biológica e ligada aos sentidos. Também entende necessária a matemática, resgatando talvez as ideias Euclidianas que eram muito embasadas na geometria. Essa habilidade de Al-Hasan levou ele a concluir que a nossa visão é em suma a percepção do nosso cérebro frente a matemática (forma, tamanho, posição, movimento, etc.) dos objetos [[^11]]
 
+![Livro Ótica 1](https://www.researchgate.net/profile/Babak-Daneshfard/publication/261744073/figure/fig3/AS:458655364587523@1486363368641/Ibn-al-Haythams-diagram-of-the-eyes-from-his-Book-of-Optics.png)
+
 Esse prósito do autor de ser um conciliador também surge em outros parágrafos do prefácio. Vide esse trecho do primeiro parágrafo:
 
 > Early investigators diligently pursued the inquiry into the manner of visual sensation and applied their thoughts and effort to it, eventually reachingthe limit to which their investigation had led [...] their views on the nature of vision are divergent and their doctrines regarding the manner of sensation not concordant.-- Ibn Al-Haytham [[^12]]
@@ -94,6 +96,37 @@ E também na terceira secção:
 Essa ideia de combinação das ciências, que busca retomar os cientistas passados e as diferentes visões a cerca do assunto e sintetizar em uma única, não poderia se sustentar sem um uma linha de raciocínio, argumentação e método.
 
 ### Além do método
+
+Para lidar com as diferentes interpretações a cerca da visão e para conciliar as aproximações ao problema, Ibn Al-Haytham defende que se faça uma investigação aprofundada e completa. Vamos ver o quinto parágrafo do prefácio:
+
+> Each of those groups was led to its belief by reasonings, arguments, methods and evidence of its own. But the settled view of all those who have inquired into the manner of visual sensation divides on the whole into the two contrary doctrines which we mentioned earlier. Now, for any two different doctrines, it is either the case that one of them is true and the other false; or they are both false, the truth being other than either of them; or they both lead to one thing which is the truth. [In the latter case] each of the groups holding those two doctrines would have failed to complete its inquiry and, unable to reach the end, has stopped short of it. Alternatively, one of them may have reached the end but the other has stopped short of it, thus giving rise to the apparent difference between the two doctrines, although the end would have been the same had the investigation been pushed further. Disagreement may also arise in regard to the subject of an inquiry as a result of a difference in methods of research, but when the inquiry is rightly conducted and the investigation intensified, agreement will emerge and the difference will be settled.-- Ibn Al-Haytham [[^14]]
+
+Trouxemos esse parágrafo na íntegra porque ele traz boa parte do que trabalhamos até agora: Al-Hasan expõe a maneira como ele vê o problema e quais seriam os caminhos para chegar num acordo. Mas o trecho também é importante para destacarmos um outro elemento, a sua visão de verdade.
+
+Pode passar despercebido a nós leitores no século XXI, principalmente do meio ciéntifico, a implicação que essas palavras a respeito da verdade tem. Estamos acostumados com a busca da verdade, da conciliação e da razão a partir de demonstrações, provas, argumentos, evidências, eficácia e derivações. O que Ibn Al-Haytham coloca é essencialmente sua percepção de que a verdade é uma única e por meio de pesquisa é possível se aproximar da mesma.
+
+Para além do método científico, o fundamento do seu pensamento cŕitico e inquisitivo é o que depois será entendido como cientificismo. Ibn Al-Haytham acredita na convergência de ideias para uma única, se aplicado o devido rigor e investigação. Esse pensamento é o também o fundamento para as escolas de pensamento do século XX como o cientificismo (como em Hayek, Popper ou Kuhn), positivismo (Mach, Schlick).
+
+### Investigações em _Livro da Óptica_
+
+O método que Ibn Al-Haytham também paracerá familiar aos dias de hoje. Vejamos o seguinte trecho da sexta secção:
+
+> [...] We should, that is, recommence the inquiry into its principles and premisses, beginning our investiga­tion with an inspection of the things that exist and a survey of the conditions of visible objects. We should distinguish the properties of particulars, and gather by induction what pertains to the eye when vision takes place and what is found in the manner of sensation to be uniform, unchanging, manifest and not subject to doubt. After which we should ascend in our inquiry and reasonings, gradually and orderly, criticizing premisses and exercising caution in regard to conclusions - our aim in all that we make subject to inspection and review being to employ justice, not to follow prejudice, and to take care in all that we judge and criticize that we seek the truth and not to be swayed by opinion. We may in this way eventually come to the truth that gratifies the heart and gradually and carefully reach the end at which certainty appears; while through criticism and caution we may seize the truth that dispels disagreement and resolves doubtful matters. For all that, we are not free from that human turbidity which is in the nature of man; but we must do our best with what we possess of human power. From God we derive support in all things. -- Ibn Al-Haytham [[^15]]
+
+O final do trecho reforça o que citamos anteriormente a respeito da verdade e a aspiração do autor de gradualmente e ordenamente se chegar a um acordo. Ele separa a verdade de opinião, distinguíveis pela validade da investigação que foram submetidas.
+
+À essa secção também é atrbuída a criação do método científico. Para analisarmos corretamente o método, precisaríamos destrinchar o uso das palavras de Ibn Al-Haytham [[^16}], então vamos nos concentrar apenas no que podemos identificar na tradução. Sua pesquisa consiste em: situar o problema, distinguir o particular do todo, formular expectativas do todo, investigar e cautelosamente chegar numa conclusão.
+
+Não entraremos em detalhe sobre a história do método, mas podemos analisar algumas semelhanças com o que sabemos hoje. A maior descrepância e evolução talvez seja dois aspectos da ciência moderna: o primeiro é o suporte da  estatística e probabilidade que toda pesquisa tem hoje, os experimentos são testados repetidas vezes e as conclusões são possibilidades dentro de um nível de confiança; a segunda é a que o método atual propõe que, antes das conclusões, se levantem novas hipóteses para o determinado assunto e se possível refaça exoerimentos levando em conta essas novas hipóteses.
+
+<div class="divider"></div>
+
+### Conclusão
+
+Trabalhamos o que acreditamos ser o ponto mais importante da formação do pensamento de Ibn Al-Haytham: a possibilidade de encontrar a verdade por meio de uma investigação rigorosa. Pincelamos apenas uma pequena parte desse assunto e das obras do autor, ressaltando o fundamento dos inquéritos científicos do autor.
+Esperamos despertar interesse do leitor por Al-Hasan e destacar sua capacidade de argumentação por meio da própria obra do autor.
+
+Se quisermos aprofundar o assunto, poderíamos ver a evolução histórica do pensamento de Ibn Al-Haytham, quais outras linhas de raciocínio apareceram no mundo árabe medieval, traçar um perfil filosófico de suas ideias de forma mais completa com outras obras e buscar mais sobre as traduções e conceitos trabalhados pelo autor, que muitas vezes envolvem também traduções do grego e outras línguas para o árabe.
 
 <div class="divider"></div>
 
@@ -112,23 +145,36 @@ Essa ideia de combinação das ciências, que busca retomar os cientistas passad
 
 <div class="divider"></div>
 
-
-
 Footnote:
 
 [^1]: 1: Part II, p.73 - Sabra, A.I. (1989).
+
 [^2]: 2: Todas as obras conhecidas estão sumarizadas em R.  Rashed, _Les mathématiques infinitésimales du IX au XI siècle: Ibn al-Haytham, (London, 1993).
+
 [^3]: 3: Também pode levar o nome de teoria da emissão e da intromissão, p.324, Rashed (1996).
+
 [^4]: 4: p.330, Rashed (1996).
+
 [^5]: 5: Títulos em árabe e francês: p.512, Rashed(1993).
+
 [^6]: 6: _Erros_ são no texto de Ibn Al-Haytham mudanças que ocorrem na nossa percepção, equivalente ao que chamamos hoje de ilusões, como por exemplo a magnitude da Lua em relação a sua posição no horizonte. Al-Hasan trabalhou uma questão antiga de como a Lua e Sol aparentam ser maiores quando próximos do horizonte.
+
 [^7]: 7: Incluindo próprio Sabra (1989).
+
 [^8]: 8: Suas declarações claras e ousadas nos 8 parágrafos iniciais impressionam qualquer leitor e recomendamos a leitura à todos. Disponível em: p.4, Sabra (1989).
+
 [^9]: 9: Muitas das vertentes filosóficas que trataremos vêm de escolas de pensamento situadas historicamente em momentos diferentes de Ibn Al-Haytham. Como não pretendemos fazer um resgate histórico da evolução do pensamento de Al-Hasan, traçaremos apenas uma comparação das ideias dos mesmos. Não estamos atribuindo vínculo ou influência direta entre esses autores ou rótulos a determinadas escolas de pensamento.
+
 [^10]: 10: p.4, Sabra (1989).
+
 [^11]: 11: Para ver mais sobre a relação visão e cérebro ver: Ibn Al-Haytham, _Livro da Óptica_, Livro II, chap. 2, secção 4.
+
 [^12]: 12: p.3, Sabra (1989).
+
 [^13]: 13: p.4, Sabra (1989).
-[^14]: 14: p.330, Rashed (1996).
-[^15]: 15: p.330, Rashed (1996).
-[^16]: 16: p.330, Rashed (1996).
+
+[^14]: 14: p.5, Sabra (1989).
+
+[^15]: 15: p.5, Sabra (1989).
+
+[^16]: 16: Rashed explora isso em seu comentaio: Rashed (1989).
