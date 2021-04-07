@@ -40,7 +40,7 @@ navbar:
   - slug : about
     title: About
   - slug : gamedev
-    title: Game Devlog
+    title: Devlog
   - slug : random 
     title: Random Topic
   - slug : page 
