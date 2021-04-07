@@ -14,7 +14,7 @@ layout: default
     {% for cat in post.categories %}
     {% if cat == page.category %}
       <article class="post-item">
-        <span class="post-meta date-label">{{ post.date | date: "%Y %b %d" }}</span>
+        <span class="post-meta date-label">{{ post.date | date: "%d %b %y" }}</span>
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
       </article>
     {% endif %}
