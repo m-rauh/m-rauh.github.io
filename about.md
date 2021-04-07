@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Oi Buuu <3
-Te amo gatinha
+Game modder and C++, Python and SQL developer.
+![sit]({{ site.url }}/assets/sit.jpg)
