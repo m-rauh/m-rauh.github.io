@@ -11,6 +11,7 @@ layout: default
 <section class="post-list">
   <div class="container">
     {% for post in site.logs %}
+    {% if post.category == gamedev  %}
       <article class="post-item">
         <span class="post-meta date-label">{{ post.date | date: "%d %b %Y" }}</span>
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
