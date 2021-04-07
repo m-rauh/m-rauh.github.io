@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: gamedev
+title: Devlog
+permalink: /gamedev/
 ---
 
 ## Game Devlog:
