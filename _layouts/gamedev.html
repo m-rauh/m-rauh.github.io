@@ -8,12 +8,12 @@ layout: default
   </div>
 </section>
 
-<section class="log-list">
+<section class="post-list">
   <div class="container">
-    {% for log in site.logs %}
-      <article class="log-item">
-        <span class="log-meta date-label">{{ log.date | date: "%d %b %Y" }}</span>
-        <div class="article-title"><a class="log-link" href="{{ log.url | prepend: site.baseurl | prepend: site.url }}">{{ log.title }}</a></div>
+    {% for post in site.logs %}
+      <article class="post-item">
+        <span class="post-meta date-label">{{ post.date | date: "%d %b %Y" }}</span>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
       </article>
     {% endfor %}
   </div>
