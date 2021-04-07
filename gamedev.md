@@ -1,6 +1,7 @@
 ---
 layout: gamedev
 title: Devlog
+category: gamedev
 permalink: /gamedev/
 ---
 
