@@ -1,6 +1,7 @@
 ---
 layout: page2
-title: About Me
+title: Matheus Rauh
 ---
 
-Hi, i'm Mat.
+Game modder and C++, Python and SQL developer.
+![sit]({{ site.url }}/assets/sit.jpg)
