@@ -1,29 +1,13 @@
 ---
-layout: compress
+layout: default
 ---
-<!DOCTYPE html>
-<html>
-  
-  {% include head.html %}
-  <body>
-    <main class="wrapper">
-      {% include header.html %}
-      <section class="log-list">
-        <div class="container">
-          {% for log in site.logs %}
-            <article class="log-item">
-              <span class="log-meta date-label">{{ log.date | date: "%d %b %Y" }}</span>
-              <div class="article-title"><a class="log-link" href="{{ log.url | prepend: site.baseurl | prepend: site.url }}">{{ log.title }}</a></div>
-            </article>
-           {% endfor %}
-        </div>
-      </section>
-      {% include footer.html %}
-    </main>
-    {% include foot.html %}
-  </body>
 
-<!--
+<section class="intro">
+  <div class="container">
+    {{ content }}
+  </div>
+</section>
+
 <section class="log-list">
   <div class="container">
     {% for log in site.logs %}
@@ -34,4 +18,4 @@ layout: compress
     {% endfor %}
   </div>
 
-</section>-->
+</section>
