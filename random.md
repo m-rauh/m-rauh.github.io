@@ -1,6 +1,7 @@
 ---
-layout: random
+layout: page
 title: Random Topics
+category: random
 permalink: /random/
 ---
 
