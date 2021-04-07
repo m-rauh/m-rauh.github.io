@@ -2,7 +2,7 @@
 layout: page
 title: Random Topics
 category: random
-permalink: /random/
+permalink: /misc/
 ---
 
 ## Random Topics:
