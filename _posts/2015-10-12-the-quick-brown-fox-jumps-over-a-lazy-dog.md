@@ -2,6 +2,7 @@
 layout: post
 title: "The quick, brown fox jumps over a lazy dog"
 comments: true
+category: gamedev
 description: "The quick, brown fox jumps over a lazy dog"
 keywords: "dummy content"
 ---
