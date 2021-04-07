@@ -41,7 +41,7 @@ navbar:
     title: About
   - slug : gamedev
     title: Devlog
-  - slug : random 
+  - slug : misc 
     title: Random Topic
   - slug : page 
     title: Analysis
