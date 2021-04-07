@@ -8,12 +8,12 @@ layout: default
   </div>
 </section>
 
-<section class="random-list">
+<section class="post-list">
   <div class="container">
-    {% for random in site.randoms %}
-      <article class="random-item">
-        <span class="random-meta date-label">{{ random.date | date: "%d %b %Y" }}</span>
-        <div class="article-title"><a class="random-link" href="{{ random.url | prepend: site.baseurl | prepend: site.url }}">{{ random.title }}</a></div>
+    {% for post in site.randoms %}
+      <article class="post-item">
+        <span class="post-meta date-label">{{ post.date | date: "%d %b %Y" }}</span>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
       </article>
     {% endfor %}
   </div>
