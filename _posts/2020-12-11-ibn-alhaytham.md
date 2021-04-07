@@ -115,7 +115,7 @@ O método que Ibn Al-Haytham também paracerá familiar aos dias de hoje. Vejamo
 
 O final do trecho reforça o que citamos anteriormente a respeito da verdade e a aspiração do autor de gradualmente e ordenamente se chegar a um acordo. Ele separa a verdade de opinião, distinguíveis pela validade da investigação que foram submetidas.
 
-À essa secção também é atrbuída a criação do método científico. Para analisarmos corretamente o método, precisaríamos destrinchar o uso das palavras de Ibn Al-Haytham [[^16}], então vamos nos concentrar apenas no que podemos identificar na tradução. Sua pesquisa consiste em: situar o problema, distinguir o particular do todo, formular expectativas do todo, investigar e cautelosamente chegar numa conclusão.
+À essa secção também é atrbuída a criação do método científico. Para analisarmos corretamente o método, precisaríamos destrinchar o uso das palavras de Ibn Al-Haytham [[^16]], então vamos nos concentrar apenas no que podemos identificar na tradução. Sua pesquisa consiste em: situar o problema, distinguir o particular do todo, formular expectativas do todo, investigar e cautelosamente chegar numa conclusão.
 
 Não entraremos em detalhe sobre a história do método, mas podemos analisar algumas semelhanças com o que sabemos hoje. A maior descrepância e evolução talvez seja dois aspectos da ciência moderna: o primeiro é o suporte da  estatística e probabilidade que toda pesquisa tem hoje, os experimentos são testados repetidas vezes e as conclusões são possibilidades dentro de um nível de confiança; a segunda é a que o método atual propõe que, antes das conclusões, se levantem novas hipóteses para o determinado assunto e se possível refaça exoerimentos levando em conta essas novas hipóteses.
 
