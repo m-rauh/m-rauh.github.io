@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Analysis
+category: analysis
 permalink: /page/
 ---
 
