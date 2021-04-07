@@ -15,7 +15,7 @@ layout: compress
               <span class="log-meta date-label">{{ log.date | date: "%d %b %Y" }}</span>
               <div class="article-title"><a class="log-link" href="{{ log.url | prepend: site.baseurl | prepend: site.url }}">{{ log.title }}</a></div>
             </article>
-    {% endfor %}
+           {% endfor %}
         </div>
       </section>
       {% include footer.html %}
