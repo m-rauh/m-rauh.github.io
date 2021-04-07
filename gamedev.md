@@ -1,5 +1,5 @@
 ---
-layout: gamedev
+layout: page
 title: Devlog
 category: gamedev
 permalink: /gamedev/
