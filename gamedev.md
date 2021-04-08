@@ -5,4 +5,4 @@ category: gamedev
 permalink: /gamedev/
 ---
 
-## Game Devlog:
+## Game Devlog and Modding:
