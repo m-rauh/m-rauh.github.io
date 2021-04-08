@@ -75,4 +75,3 @@ Dessa forma nosso programa já consegue ser utlizado
 O projeto, como dito anteriormente, é simples e criado para praticar o uso mais básico da automação da interface com usuário.
 O potencial da aplicação é pequeno, se pensarmos em votos por minuto. Poderíamos fazer algumas melhorias pra que ele responda com mais velocidade, ainda assim, por ser um processo em primeiro plano com captura de tela, o potencial máximo do programa é limitado.
 Obrigado, [Yuri](https://github.com/Rilufi), que deu o ponta pé pra criar essa aplicação e também já fez as outras implementações no BBB nos anos anteriores.
-
