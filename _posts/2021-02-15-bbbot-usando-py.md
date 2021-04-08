@@ -2,7 +2,7 @@
 layout: post
 title: "Robô de votação no paredão do BBB"
 comments: true
-category: page
+category: analysis
 description: "Praticando automação de interações na web na votação do BBB"
 keywords: "bbb, bbb 2021, robo, automação, python, PyAutoGUI"
 ---
