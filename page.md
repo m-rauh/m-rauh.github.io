@@ -5,4 +5,4 @@ category: analysis
 permalink: /page/
 ---
 
-## Data Analysis Projects:
+## Data Analysis, Automation and Programming Projects:
