@@ -62,8 +62,11 @@ mouse_func = [pyautogui.easeOutBack, pyautogui.easeInOutQuad, pyautogui.easeOutQ
 Assim podemos reescrever cada uma das interações:
 ```python
     sleep(100) # aguarda 1s pra tela aparecer
+    
     x, y = pyautogui.locateCenterOnScreen(brother) # localiza imagem
+    
     pyautogui.moveTo(w+randint(-20,150), z+randint(-30,10), uniform(0.5, 2.0), choice(mouse_func)) # move para uma posição aleatória entorno do x,y. O movimento dura de 0.5s à 2s e segue as configurações definidas
+    
     pyautogui.click() #clica
 ```
 Dessa forma nosso programa já consegue ser utlizado
