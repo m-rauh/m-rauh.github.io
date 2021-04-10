@@ -8,6 +8,19 @@ published: true
   <style>
     body {background-color: #fffefa}
     header {background-color: #edeff2}
+    
+    .column {
+      float: left;
+      width: 33.33%;
+      padding: 5px;
+    }
+    
+    .row::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+    
   </style>
   <body>
     <main class="wrapper">
