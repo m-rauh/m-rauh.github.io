@@ -4,10 +4,10 @@ title: Matheus Rauh
 ---
  <div class="row">
   <div class="column">
-    <img src="{{ site.url }}/assets/mat1.jpg" style="width:100%">
+    <img src="{{ site.url }}/assets/mat1.jpeg" style="width:100%">
   </div>
   <div class="column">
-    <img src="{{ site.url }}/assets/mat1.jpg" style="width:100%">
+    <img src="{{ site.url }}/assets/mat1.jpeg" style="width:100%">
   </div>
   <div class="column">
     <p> Hi, I'm Mat. Game modder and C++, Python and SQL developer. </p>
