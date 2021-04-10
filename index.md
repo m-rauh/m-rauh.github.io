@@ -2,10 +2,17 @@
 layout: page2
 title: Matheus Rauh
 ---
-
-<img style="float: right;" src="{{ site.url }}/assets/mat1.jpg">
-<img style="float: right;" src="{{ site.url }}/assets/mat2.jpg">
-Hi, I'm Mat. Game modder and C++, Python and SQL developer.
+ <div class="row">
+  <div class="column">
+    <img src="{{ site.url }}/assets/mat1.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="{{ site.url }}/assets/mat1.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <p> Hi, I'm Mat. Game modder and C++, Python and SQL developer. </p>
+  </div>
+</div> 
 
 <div class="divider"></div>
 
