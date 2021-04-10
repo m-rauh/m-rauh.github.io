@@ -177,4 +177,4 @@ Footnote:
 
 [^15]: 15: p.5, Sabra (1989).
 
-[^16]: 16: Rashed explora isso em seu comentaio: Rashed (1989).
+[^16]: 16: Rashed explora isso em seu comentário: Rashed (1989).

@@ -1,8 +1,18 @@
 {% if site.postshare_enabled %}
 <aside class="share">
-
-  <p>If you liked this article and think others should read it, please share it on <a href="http://twitter.com/share?text={{page.title}}&amp;url={{ page.url | prepend: site.baseurl | prepend: site.url }}&amp;via={{ site.twitter_username }}"
-  onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">Twitter</a> or <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=235');return false;">Facebook</a>.</p>
+  
+  <div class="row">
+  <div class="minicolumn1">
+    <img src="{{ site.url }}/assets/me/mat5.png" style="width:100%">
+  </div>
+  <div class="minicolumn2">
+    <p> Matheus Rauh, programmer and physicist from São Paulo, Brazil. Student of arabic literature, culture, philosophy, history and language.
+    <br></br>
+    If you liked this article and think others should read it, please share it on <a href="http://twitter.com/share?text={{page.title}}&amp;url={{ page.url | prepend: site.baseurl | prepend: site.url }}&amp;via={{ site.twitter_username }}"
+  onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">Twitter</a>, <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.baseurl | prepend: site.url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=235');return false;">Facebook</a> or <a href="https://www.linkedin.com/cws/share?url=({{ page.url | prepend: site.baseurl | prepend: site.url }})" onclick="window.open(this.href, 'linkedin-share', 'width=550,height=235');return false;">LinkedIn</a>.</p>
+  </div>
+</div> 
+  
 
 </aside>
 {% endif %}

@@ -1,0 +1,22 @@
+I"…<div class="row">
+  <div class="column">
+    <img src="http://localhost:4000/assets/mat1.jpeg" style="width:100%" />
+  </div>
+  <div class="column">
+    <img src="http://localhost:4000/assets/mat1.jpeg" style="width:100%" />
+  </div>
+  <div class="column">
+    <p> Hi, I'm Mat. Game modder and C++, Python and SQL developer. </p>
+  </div>
+</div>
+
+<div class="divider"></div>
+
+<p>Feel free to reach me:</p>
+<ul>
+  <li><a href="mailto:matheusrauh@gmail.com">e-mail</a>: matheusrauh@gmail.com</li>
+  <li><a href="https://www.linkedin.com/in/matheus-rauh">LinkedIn</a></li>
+</ul>
+
+<p><img src="http://localhost:4000/assets/sit.jpg" alt="sit" /></p>
+:ET
