@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Analysis
-category: analysis
-permalink: /page/
+title: Notes
+category: notes
+permalink: /notes/
 ---
 
 ### Data Analysis, Automation and Programming Projects:
