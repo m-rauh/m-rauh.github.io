@@ -5,12 +5,54 @@
     <description>Game development devlog, data analysis and random articles</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Apr 2021 13:59:56 -0300</pubDate>
-    <lastBuildDate>Mon, 12 Apr 2021 13:59:56 -0300</lastBuildDate>
+    <pubDate>Wed, 21 Apr 2021 19:32:08 -0300</pubDate>
+    <lastBuildDate>Wed, 21 Apr 2021 19:32:08 -0300</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
-        <title>Robô de votação no paredão do BBB</title>
+        <title>Hash: Pt.2 - Hash Joins in SQL</title>
+        <description>&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;h1 id=&quot;coming-soon&quot;&gt;Coming Soon&lt;/h1&gt;
+</description>
+        <pubDate>Wed, 21 Apr 2021 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2021/hash-sql/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/hash-sql/</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Hash: Pt.1 - Concept and Basic Implementation in C++</title>
+        <description>&lt;h2 id=&quot;why-hash&quot;&gt;Why Hash?&lt;/h2&gt;
+
+&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;minimal-implementation&quot;&gt;Minimal Implementation&lt;/h2&gt;
+&lt;h3 id=&quot;hash-function&quot;&gt;Hash Function&lt;/h3&gt;
+&lt;h3 id=&quot;handling-collisions&quot;&gt;Handling Collisions&lt;/h3&gt;
+
+&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h2&gt;
+
+</description>
+        <pubDate>Wed, 21 Apr 2021 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2021/hash-cpp/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/hash-cpp/</guid>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+      <item>
+        <title>Robô de votação no paredão do BBB em Python</title>
         <description>&lt;h2 id=&quot;bbbot&quot;&gt;BBBot&lt;/h2&gt;
 &lt;p&gt;O intuito desse projeto é praticar interações autônomas com aplicações da web. Não esperamos &lt;em&gt;quebrar&lt;/em&gt; a página de votação do &lt;a href=&quot;https://gshow.globo.com/realities/bbb/&quot;&gt;&lt;em&gt;GShow&lt;/em&gt;&lt;/a&gt;, beneficiar ou prejudicar nenhum dos participantes.
 Queremos automatizar a votação no BBB. No passado isso era possível usando Selenium (ferramenta para automação de funções do navegador), este ano o site do &lt;em&gt;GShow&lt;/em&gt; exige imediatamente um hcaptcha se detectar o Selenium. A solução então foi um robô que encontrasse imagens na tela e clicasse, em outras palavras, um simulador do clique humano, só que sem precisarmos operar o mouse. A solução não trabalha em segundo plano, mas ajuda entender o básico de captura e automação do mouse. Toda a aplicação pode ser encontrada no &lt;a href=&quot;https://github.com/m-rauh/bbbot-2021&quot;&gt;repositório&lt;/a&gt;.&lt;/p&gt;

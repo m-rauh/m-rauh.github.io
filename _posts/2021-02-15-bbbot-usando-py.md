@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robô de votação no paredão do BBB"
+title: "Robô de votação no paredão do BBB em Python"
 comments: true
 category: notes
 description: "Praticando automação de interações na web na votação do BBB"
