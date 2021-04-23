@@ -1,0 +1,36 @@
+I"8<div class="row">
+  <div class="column">
+    <img src="http://localhost:4000/assets/me/mat3.png" style="width:100%" />
+    <img src="http://localhost:4000/assets/me/mat4.png" style="width:100%" />
+  </div>
+  <div class="column2">
+    <p> Welcome, I'm Mat.</p>
+    <p> Python, SQL and C++ developer. Currently learning more about Cloud Practices in AWS, Data Analysis and Game Modding. </p>
+	<br />
+    <p> This is a place to share my notes, projects and seldom my ideas: </p>
+    <p> <a href="http://localhost:4000notes"> &lt;font size=+2&gt;Notes:&lt;/font&gt; </a>  </p>
+    <p class="item">
+     	&bull; Data Analysis projects </p>
+     <p class="item"> 
+     	&bull; C++, SQL and Python development </p>
+     	
+     <p> <a href="http://localhost:4000misc"> &lt;font size=+2&gt;Miscellaneous:&lt;/font&gt; </a>  </p>
+    <p class="item">
+     	&bull; Arabic culture, history and philosophy </p>
+     <p class="item"> 
+     	&bull; Game modding and development from scratch </p>
+     <p class="item"> 
+     	&bull; Other essays </p>
+  </div>
+</div>
+
+<div class="divider"></div>
+
+<p>Feel free to reach me:</p>
+<ul>
+  <li><a href="mailto:matheusrauh@gmail.com">e-mail</a>: matheusrauh@gmail.com</li>
+  <li><a href="https://www.linkedin.com/in/matheus-rauh">LinkedIn</a></li>
+</ul>
+
+<!-- ![sit](http://localhost:4000/assets/sit.jpg) -->
+:ET

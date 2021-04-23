@@ -1,0 +1,24 @@
+I"�<h2 id="why-hash">Why <em>Hash</em>?</h2>
+<p>Before breaking down what is Hash and how to implement it, let’s understand where it’s applicable and why.</p>
+
+<p>Imagine you’ve arrived at a city with a mission of delivering a package to a person named Dave Davies. You have no prior knowledge of where he lives or any information that could help you find where to delivery the package. Your only option would be knock on every door of every apartment of every building, until you find Dave Davies. If that sounds harsh, you can picture how this task would be nearly impossible in cities with millions of people such as São Paulo, Jakarta, New York or Tokyo.</p>
+
+<p>Even if you had a list with each person’s name and their adresses, you would still have to search for Dave in this list among millions of other names.</p>
+
+<p><strong>Hash</strong> helps getting around this.</p>
+
+<div class="divider"></div>
+
+<h2 id="overview">Overview</h2>
+
+<div class="divider"></div>
+
+<h2 id="minimal-implementation">Minimal Implementation</h2>
+<h3 id="hash-function">Hash Function</h3>
+<h3 id="handling-collisions">Handling Collisions</h3>
+
+<div class="divider"></div>
+
+<h2 id="further-reading">Further Reading</h2>
+
+:ET
