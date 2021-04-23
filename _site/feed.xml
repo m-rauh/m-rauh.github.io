@@ -5,8 +5,8 @@
     <description>Game development devlog, data analysis and random articles</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Apr 2021 18:30:15 -0300</pubDate>
-    <lastBuildDate>Fri, 23 Apr 2021 18:30:15 -0300</lastBuildDate>
+    <pubDate>Fri, 23 Apr 2021 18:47:49 -0300</pubDate>
+    <lastBuildDate>Fri, 23 Apr 2021 18:47:49 -0300</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -34,7 +34,7 @@
 
 &lt;p&gt;&lt;strong&gt;Hash&lt;/strong&gt; helps getting around this. Imagine instead, with only a person’s name you could do a mathematical manipulation and arrive at this person’s address. No matter who, you would be able to use the same mathematical function. That’s the proposal of a &lt;strong&gt;hash&lt;/strong&gt;, going straight to the info’s source without having to search for it.&lt;/p&gt;
 
-&lt;p&gt;Of course, that’s not the only porpouse. It could be used to retrieve and join information faster, to quicly match an input with a database (for example biometric entry systems), to make a search mechanism and more.&lt;/p&gt;
+&lt;p&gt;Of course, that’s not the only porpouse. It could be used to retrieve and join information faster, to quickly match an input with a database (for example biometric entry systems), to make a search mechanism and more.&lt;/p&gt;
 
 &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;So, what is &lt;strong&gt;Hash&lt;/strong&gt;?&lt;/p&gt;
@@ -97,7 +97,7 @@ Frank's Zip Code: 11441208321404 % 99999 = 34631
 
 &lt;p&gt;A &lt;strong&gt;list&lt;/strong&gt; however is non contiguous, which means &lt;strong&gt;list[54]&lt;/strong&gt; does &lt;strong&gt;NOT&lt;/strong&gt; comes next to &lt;strong&gt;list[53]&lt;/strong&gt; in the memory. If you used a function like &lt;em&gt;list[53].push_back(value)&lt;/em&gt; it’ll not fill &lt;strong&gt;list[54]&lt;/strong&gt;, but rather an empty location next do &lt;strong&gt;list[53]&lt;/strong&gt; which carries the same name.&lt;/p&gt;
 
-&lt;p&gt;As we are using lists and list::push_back, collisions will be automaticly handled. Each position can hold multiple variable and are determined by their id. However, for the sake of completion it’s important to point out how to retrieve those informations stored in the same position in a list:&lt;/p&gt;
+&lt;p&gt;As we are using &lt;strong&gt;lists&lt;/strong&gt; and &lt;strong&gt;list::push_back&lt;/strong&gt;, collisions will be automaticly handled. Each position can hold multiple variable and are determined by their id. However, for the sake of completion it’s important to point out how to retrieve those informations stored in the same position in a list:&lt;/p&gt;
 
 &lt;div class=&quot;language-cpp highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;search_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
