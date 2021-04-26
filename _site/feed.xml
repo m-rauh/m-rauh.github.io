@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <description>Game development devlog, data analysis and random articles</description>
+    <description>Python, C++ and SQL development and random articles</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Apr 2021 01:38:52 -0300</pubDate>
-    <lastBuildDate>Sun, 25 Apr 2021 01:38:52 -0300</lastBuildDate>
+    <pubDate>Mon, 26 Apr 2021 13:55:01 -0300</pubDate>
+    <lastBuildDate>Mon, 26 Apr 2021 13:55:01 -0300</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -58,15 +58,15 @@ Frank's Zip Code: 11441208321404 % 99999 = 34631
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;In our example, Frank would be realocated to 34631, Arizona. So basically, knowing only &lt;em&gt;Frank Zappa&lt;/em&gt; by his name we would reach his address doing only a few math. In reality, 34631 would be the position in a new data structure and we would have to rearrange all information (every citizen) to a new location.&lt;/p&gt;
 
-&lt;p&gt;You probably wondering what if the information’s key points to the same location as another. In fact that can happen and it’s called &lt;strong&gt;collision&lt;/strong&gt;. There are multiple ways of handling colision, in our example, it could be as simply as having more than one person in that given address. You would have to still knock door on door, but only in a few. The more you avoid it, the fewer you have to knock, but even with collisions, &lt;strong&gt;hashes&lt;/strong&gt; are still faster. Also notice the size of a &lt;strong&gt;hash&lt;/strong&gt; is arbitray, it can be larger or smaller than your total itens.&lt;/p&gt;
+&lt;p&gt;You are probably wondering: what if the information’s key points to the same location as another. In fact, that can happen and it’s called &lt;strong&gt;collision&lt;/strong&gt;. There are multiple ways of handling collision. In our example, it could be as simple as having more than one person in a given address. You would still have to knock on each door, but on fewer doors. The more you avoid collisions, the fewer doors you have to knock on, but even with collisions, &lt;strong&gt;hashes&lt;/strong&gt; are still faster. Also notice the size of a &lt;strong&gt;hash&lt;/strong&gt; is arbitrary, it can be larger or smaller than the total number of items.&lt;/p&gt;
 
 &lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;minimal-implementation&quot;&gt;Minimal Implementation&lt;/h2&gt;
-&lt;p&gt;This is a simple &lt;strong&gt;hash&lt;/strong&gt;. The sole porpouse of this program is learn and practice the basics of Hash Function and Hash Tables. We used C++ only as a learning languague, we did not aim to any particular implementation. I recommend checking the &lt;a href=&quot;https://github.com/m-rauh/hash-cpp&quot;&gt;full code&lt;/a&gt;. It will basically consist in 3 parts, assign a key and a position to every element, inserting this element in a new array/list/vector and handling collisions when it happens.&lt;/p&gt;
+&lt;p&gt;This is a simple &lt;strong&gt;hash&lt;/strong&gt;. The sole purpose of this program is learn and practice the basics of Hash Function and Hash Tables. We used C++ only as a learning languague, we did not aim to any particular implementation. I recommend checking the &lt;a href=&quot;https://github.com/m-rauh/hash-cpp&quot;&gt;full code&lt;/a&gt;. It will basically consist in 3 parts, assign a key and a position to every element, inserting this element in a new array/list/vector and handling collisions when it happens.&lt;/p&gt;
 
 &lt;h3 id=&quot;hash-function&quot;&gt;Hash Function&lt;/h3&gt;
-&lt;p&gt;We used a hashfunction to determinated the position of a given object in the new array. This hash function is not optimal and it’s supposed to be only an example. This function will return the position for a given id:&lt;/p&gt;
+&lt;p&gt;We used a &lt;strong&gt;hash function&lt;/strong&gt; to determine the position of a given object in the new array. This hash function is not optimal and it’s supposed to be only an example. This function will return the position for a given id:&lt;/p&gt;
 &lt;div class=&quot;language-cpp highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;hashfunction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
     &lt;span class=&quot;c1&quot;&gt;// create &quot;unique&quot; key and position for each element&lt;/span&gt;
@@ -97,7 +97,7 @@ Frank's Zip Code: 11441208321404 % 99999 = 34631
 
 &lt;p&gt;A &lt;strong&gt;list&lt;/strong&gt; however is non contiguous, which means &lt;strong&gt;list[54]&lt;/strong&gt; does &lt;strong&gt;NOT&lt;/strong&gt; comes next to &lt;strong&gt;list[53]&lt;/strong&gt; in the memory. If you used a function like &lt;em&gt;list[53].push_back(value)&lt;/em&gt; it’ll not fill &lt;strong&gt;list[54]&lt;/strong&gt;, but rather an empty location next do &lt;strong&gt;list[53]&lt;/strong&gt; which carries the same name.&lt;/p&gt;
 
-&lt;p&gt;As we are using &lt;strong&gt;lists&lt;/strong&gt; and &lt;strong&gt;list::push_back&lt;/strong&gt;, collisions will be automaticly handled. Each position can hold multiple variable and are determined by their id. However, for the sake of completion it’s important to point out how to retrieve those informations stored in the same position in a list:&lt;/p&gt;
+&lt;p&gt;As we are using &lt;strong&gt;lists&lt;/strong&gt; and &lt;strong&gt;list::push_back&lt;/strong&gt;, collisions will be automaticly handled. Each position can hold multiple variables and are determined by their id. However, for the sake of completion it’s important to point out how to retrieve those informations stored in the same position in a list:&lt;/p&gt;
 
 &lt;div class=&quot;language-cpp highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;search_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
@@ -120,9 +120,9 @@ Frank's Zip Code: 11441208321404 % 99999 = 34631
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/post/hash.png&quot; alt=&quot;hash&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Hashs&lt;/strong&gt; are substantially faster than normal search.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hashes&lt;/strong&gt; are substantially faster than normal search.&lt;/p&gt;
 
-&lt;p&gt;There are multiples ways and different mathematical expressions that can be used as a &lt;strong&gt;hash function&lt;/strong&gt;, each of them serves a distinct purpouse. We only covered the simpliest and minimal implementation.&lt;/p&gt;
+&lt;p&gt;There are multiples ways and different mathematical expressions that can be used as a &lt;strong&gt;hash function&lt;/strong&gt;, each of them serves a distinct purpouse. We only covered the simplest and minimal implementation.&lt;/p&gt;
 
 &lt;p&gt;Next we’ll check how to implement a hash to perform a &lt;a href=&quot;https://m-rauh.github.io/2021/hash-sql&quot;&gt;hash join in SQL&lt;/a&gt;.&lt;/p&gt;
 
