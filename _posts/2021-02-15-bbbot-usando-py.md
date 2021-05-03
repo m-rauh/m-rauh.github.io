@@ -11,7 +11,7 @@ keywords: "bbb, bbb 2021, robo, automação, python, PyAutoGUI"
 O intuito desse projeto é praticar interações autônomas com aplicações da web. Não esperamos _quebrar_ a página de votação do [_GShow_](https://gshow.globo.com/realities/bbb/), beneficiar ou prejudicar nenhum dos participantes.
 Queremos automatizar a votação no BBB. No passado isso era possível usando Selenium (ferramenta para automação de funções do navegador), este ano o site do _GShow_ exige imediatamente um hcaptcha se detectar o Selenium. A solução então foi um robô que encontrasse imagens na tela e clicasse, em outras palavras, um simulador do clique humano, só que sem precisarmos operar o mouse. A solução não trabalha em segundo plano, mas ajuda entender o básico de captura e automação do mouse. Toda a aplicação pode ser encontrada no [repositório](https://github.com/m-rauh/bbbot-2021).
 
-<meta property="og:image" itemprop="image" content="https://imgur.com/oPAqupL.png" />
+<meta name="image" property="og:image" content="https://imgur.com/oPAqupL.png">
 
 <div class="divider"></div>
 
