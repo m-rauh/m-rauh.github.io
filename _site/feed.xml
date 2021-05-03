@@ -5,8 +5,8 @@
     <description>Python, C++ and SQL development and random articles</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 May 2021 22:54:46 -0300</pubDate>
-    <lastBuildDate>Sun, 02 May 2021 22:54:46 -0300</lastBuildDate>
+    <pubDate>Sun, 02 May 2021 23:18:20 -0300</pubDate>
+    <lastBuildDate>Sun, 02 May 2021 23:18:20 -0300</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -142,7 +142,7 @@ Frank's Zip Code: 11441208321404 % 99999 = 34631
 &lt;p&gt;O intuito desse projeto é praticar interações autônomas com aplicações da web. Não esperamos &lt;em&gt;quebrar&lt;/em&gt; a página de votação do &lt;a href=&quot;https://gshow.globo.com/realities/bbb/&quot;&gt;&lt;em&gt;GShow&lt;/em&gt;&lt;/a&gt;, beneficiar ou prejudicar nenhum dos participantes.
 Queremos automatizar a votação no BBB. No passado isso era possível usando Selenium (ferramenta para automação de funções do navegador), este ano o site do &lt;em&gt;GShow&lt;/em&gt; exige imediatamente um hcaptcha se detectar o Selenium. A solução então foi um robô que encontrasse imagens na tela e clicasse, em outras palavras, um simulador do clique humano, só que sem precisarmos operar o mouse. A solução não trabalha em segundo plano, mas ajuda entender o básico de captura e automação do mouse. Toda a aplicação pode ser encontrada no &lt;a href=&quot;https://github.com/m-rauh/bbbot-2021&quot;&gt;repositório&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/post/brickgit.png&quot; alt=&quot;hash&quot; /&gt;&lt;/p&gt;
+&lt;meta property=&quot;og:image&quot; itemprop=&quot;image&quot; content=&quot;http://localhost:4000/assets/post/brickgit.png&quot; /&gt;
 
 &lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
 
