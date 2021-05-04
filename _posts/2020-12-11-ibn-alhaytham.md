@@ -3,13 +3,13 @@ layout: post
 title: "Investigações científicas de Ibn al-Haytham"
 comments: true
 category: random
-description: "Mo pensamento científico de Ibn Al-Haytham, cientista árabe do século XX e XI"
+description: "Mo pensamento científico de Ibn Al-Haytham, cientista árabe do século X e XI"
 keywords: "Ibn al-Haytham, Alhazen, método científico, Investigações científicas, Livro da Óptica"
 ---
 
 ## Resumo
 
-Investigamos o pensamento científico de Ibn Al-Haytham, cientista árabe do século XX e XI, através de sua obra _Livro da Óptica_. Vimos como se manifesta o pensamento inquisitivo do autor, muitas vezes atribuído como criador do método científico. Sua obra persiste como uma das mais completas a cerca da visão e da luz e a forma de seu pensamento esboça semelhanças com o cientificismo moderno.
+Investigamos o pensamento científico de Ibn Al-Haytham, cientista árabe do século X e XI, através de sua obra _Livro da Óptica_. Vimos como se manifesta o pensamento inquisitivo do autor, muitas vezes atribuído como criador do método científico. Sua obra persiste como uma das mais completas acerca da visão e da luz e a forma de seu pensamento esboça semelhanças com o cientificismo moderno.
 
 ![Al-Haytham](https://es.unesco.org/sites/default/files/styles/img_688x358/public/courier/photos/alhacen.jpg?itok=AY-YxiLH.png)
 
@@ -35,13 +35,13 @@ Investigaremos as ideias do pensamento científico de Ibn Al-Haytham, chamada pe
 
 Ciência é o conhecimento da Natureza, é filosofia, e como tal precisa de um espaço - social, político e econômico - próspero para florescer. Essa foi a realidade de muito pensadores da chamada Era de Ouro Do Islã (século VIII ao XIV), marcada pela construção de um dos maiores centros de estudo do mundo, A Casa da Sabedoria em Bagdá. Uma época que se inicia com traduções de textos do mundo todo - gregos, romanos, indianos, chineses e persas -  e posteriormente se debruça sobre todos os pensadores antigos para elaborar novas obras. Um momento na história conhecido pelo avanço na astronomia, geometria, cálculo, música, biologia, medicina, física, pela criação da álgebra, mapeamento das estrelas, estudos do clima, e mais.
 
-Ibn Al-Haytham foi um desses estudiosos da época, no auge da Era de Ouro (séc. XX e XI). Nascido em Basra, sabemos que visitou Bagdá e que viveu boa parte de sua vida no Cairo, capital do então califado Fatímida. Portanto, certamente esteve em contato com muitos escritos e trabalhos tanto dos antigos como de outros árabes. O autor tem uma obra extensa e são importantes dois aspectos pro contexto de suas ideias.
+Ibn Al-Haytham foi um desses estudiosos da época, no auge da Era de Ouro (séc. X e XI). Nascido em Basra, sabemos que visitou Bagdá e que viveu boa parte de sua vida no Cairo, capital do então califado Fatímida. Portanto, certamente esteve em contato com muitos escritos e trabalhos tanto dos antigos como de outros árabes. O autor tem uma obra extensa e são importantes dois aspectos pro contexto de suas ideias.
 
 ### A ótica
 
-Primeiro é o contexto da ciência da ótica até Al-Hasan. Não pretendemos fazer uma análise histórica da ótica e das contribuição de Ibn Al-Haytham, mas é inevitável discorrermos sobre o assunto. Até então existiam duas ideias principais a cerca da luz e da visão, a ideia de emissão e a ideia de sensação [[^3]}. A primeira data dos gregos com Euclídes (fl. 300 a.C) e depois aperfeiçoado por Ptolomeu (fl. 127-148) sugere que os olhos humanos emitem raios que atingem os objetos nos fazendo ver, e a segunda trabalhada por Aristóteles (383-322 a.C) sugere que todo objeto emite uma luz que é capturada pelo nosso olho.
+Primeiro é o contexto da ciência da ótica até Al-Hasan. Não pretendemos fazer uma análise histórica da ótica e das contribuição de Ibn Al-Haytham, mas é inevitável discorrermos sobre o assunto. Até então existiam duas ideias principais acerca da luz e da visão, a ideia de emissão e a ideia de sensação [[^3]}. A primeira data dos gregos com Euclídes (fl. 300 a.C) e depois aperfeiçoado por Ptolomeu (fl. 127-148) sugere que os olhos humanos emitem raios que atingem os objetos nos fazendo ver, e a segunda trabalhada por Aristóteles (383-322 a.C) sugere que todo objeto emite uma luz que é capturada pelo nosso olho.
 
-Já no mundo árabe outros estudiosos se debruçaram sobre essa teoria [[^4]]. Al-Kindi (d. 866) fortalecendo a ideia de emissão e Ibn Ishaq (d. 877) seguindo as ideias propostas por Galeno (129-199) que teciam críticas a ambas teorias. Entrando no século XX, Al-Razi (d. 923) e Ibn Sina (980-1037) estudaram a anatomia do olho e as implicações em como vemos a luz, seguindo também um estudo mais próximo de Galeno. Ibn Sina também fez considerações a cerca das teorias vigentes, já trazendo críticas aos trabalhos anteriores.
+Já no mundo árabe outros estudiosos se debruçaram sobre essa teoria [[^4]]. Al-Kindi (d. 866) fortalecendo a ideia de emissão e Ibn Ishaq (d. 877) seguindo as ideias propostas por Galeno (129-199) que teciam críticas a ambas teorias. Entrando no século X, Al-Razi (d. 923) e Ibn Sina (980-1037) estudaram a anatomia do olho e as implicações em como vemos a luz, seguindo também um estudo mais próximo de Galeno. Ibn Sina também fez considerações acerca das teorias vigentes, já trazendo críticas aos trabalhos anteriores.
 
 Esses pensadores citados, tantos gregos como árabes, reforçam o contexto de Ibn Al-Haytham. Seu trabalho foi fruto de uma série de trabalhos de outros pensadores e ele não é o pioneiro de uma ideia crítica aos modelos de visão até então.
 
@@ -93,11 +93,11 @@ E também na terceira secção:
 
 > Natural scientists have inquired into the nature of this subject according to their art and exerted themselves in it as much as they could. <!--The learned among them settled upon the opinion that vision is effected by a form which comes from the visible object to the eye and through which sight perceives the form ofthe object.--> [...] Mathematicians, for their part, have paid more attention to this science1 than others. <!--They have pursued its investigation, paying atten­tion to its details and divisions. They have distinguished objects of vision, assigning causes to their particular properties and stating reasons for each of them. All the same, they have continued throughout the ages to disagree about the principles o f this subject, with the result that the opinions of the various groups among the practitioners of this art have gone different ways. But for all the disparity in their ranks, their different epochs and the diver­gence of their views, in general they agree that vision is effected by a ray which issues from the eye to the visible object and by means o f which sight perceives the object; that this ray j extends in straight lines whose extremities meet at the centre o f the eye; and that each ray through which a visible object is perceived has as a whole the shape o f a cone the vertex o f which is the centre o f the eye and the base is the surface of the visible object.--> [...] These two notions, I mean the opinion of the physicists and that of the mathematicians, appear to diverge and contradict one another if taken at their face value.-- Ibn Al-Haytham [[^13]] 
 
-Essa ideia de combinação das ciências, que busca retomar os cientistas passados e as diferentes visões a cerca do assunto e sintetizar em uma única, não poderia se sustentar sem um uma linha de raciocínio, argumentação e método.
+Essa ideia de combinação das ciências, que busca retomar os cientistas passados e as diferentes visões acerca do assunto e sintetizar em uma única, não poderia se sustentar sem um uma linha de raciocínio, argumentação e método.
 
 ### Além do método
 
-Para lidar com as diferentes interpretações a cerca da visão e para conciliar as aproximações ao problema, Ibn Al-Haytham defende que se faça uma investigação aprofundada e completa. Vamos ver o quinto parágrafo do prefácio:
+Para lidar com as diferentes interpretações acerca da visão e para conciliar as aproximações ao problema, Ibn Al-Haytham defende que se faça uma investigação aprofundada e completa. Vamos ver o quinto parágrafo do prefácio:
 
 > Each of those groups was led to its belief by reasonings, arguments, methods and evidence of its own. But the settled view of all those who have inquired into the manner of visual sensation divides on the whole into the two contrary doctrines which we mentioned earlier. Now, for any two different doctrines, it is either the case that one of them is true and the other false; or they are both false, the truth being other than either of them; or they both lead to one thing which is the truth. [In the latter case] each of the groups holding those two doctrines would have failed to complete its inquiry and, unable to reach the end, has stopped short of it. Alternatively, one of them may have reached the end but the other has stopped short of it, thus giving rise to the apparent difference between the two doctrines, although the end would have been the same had the investigation been pushed further. Disagreement may also arise in regard to the subject of an inquiry as a result of a difference in methods of research, but when the inquiry is rightly conducted and the investigation intensified, agreement will emerge and the difference will be settled.-- Ibn Al-Haytham [[^14]]
 
